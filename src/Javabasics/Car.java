@@ -18,7 +18,7 @@ public class Car{
 			
 		Car c= new Car(40);
 	System.out.println(c.b);
-	
+	System.out.println("HI");
 		
 	
 	
